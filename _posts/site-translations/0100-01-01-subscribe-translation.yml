@@ -8,7 +8,7 @@ en:
               createaccount: 'Create an Account'
               subscribe:
                 name: 'Email New Subscriber'
-                explain: 'To sign up for updates or to access your subscriber preferences, please enter your contact informaiton below.'
+                explain: 'To sign up for updates or to access your subscriber preferences, please enter your contact information below.'
                 type:
                   title: 'Subscription Type'
                   dropdown:
@@ -52,7 +52,7 @@ es:
               createaccount: 'Crear una cuenta'
               subscribe:
                 name: 'Email New Subscriber'
-                explain: 'Para suscribirse a las actualizaciones o para acceder a las preferencias de suscriptor, por favor introduzca su informaiton contacto de abajo.'
+                explain: 'Para suscribirse a las actualizaciones o para acceder a las preferencias de suscriptor, por favor introduzca su información contacto de abajo.'
                 type:
                   title: 'Tipo de suscripción'
                   dropdown:
